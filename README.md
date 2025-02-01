@@ -1,2 +1,2 @@
 # html
-Projetos HTML
+Repositório para projetos desenvolvidos em HTML.
